@@ -24,10 +24,11 @@ on request, in case you feel like donating but don't hold any
 of the currencies I currently have addresses for.
 
 * BTC: bc1qz7pz88hxxk54he4n9s3h9n5e23hcvzpqpnr68w
-* DRK: XrHp267JNTVdw5P3dsBpqYfgTpWnzoESPQ
-* JPC: Jb9hFeBgakCXvM5u27rTZoYR9j13JGmuc2
-* VTC: VwYsZFPb6KMeWuP4voiS9H1kqxcU9kGbsw
-* XMR: 42uasNqYPnSaG3TwRtTeVbQ4aRY3n9jY6VXX3mfgerWt4ohDQLVaBPv3cYGKDXasTUVuLvhxetcuS16ynt85czQ48mbSrWX
+* ETH: 0xEd753556A5dB77183eE2D81B56F604ae9F123CdC
+* BNB: bnb1lqwc3pvn046njcy38z62nkn7fxnety7zewhyz7
+* SOL: 6haFVn6drVqu4hewbs9ZZqU9eWtWJKesQxbGQWUMFYQ4
+* DOT: 12dScxFLkJMqBQBSR7eWskY2bSV4VDYqK28f95jPq6BawQPR
+
 
 In other news, I just yanked out the code for other alrogithms.
 This is now a cryptonight-only miner.
